@@ -1,0 +1,13 @@
+form{
+  max-width: 350px;
+  float: left;
+}
+
+.card{
+  margin-left: 50px;
+}
+
+.cards{
+  display: flex;
+  margin-left: 150px;
+}
